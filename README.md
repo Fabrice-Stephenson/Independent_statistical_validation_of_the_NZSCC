@@ -12,5 +12,5 @@ DATA:
 
 DF.source - Independent evaluation data for demersal fish (for years 2019 - 2022)
 
-NZSCC.zip - zipped folder containing spatial data layers from the NZSCC (Stephenson et al., 2022) for validation
+NZSCC.zip - zipped folder containing spatial data layers from the NZSCC (Stephenson et al., 2022) for validation available upon request (too large to post here)
 
